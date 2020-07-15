@@ -1,0 +1,32 @@
+F:\BD\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+F:\BD\SistemaVentas\bin\Debug\SistemaVentas.exe
+F:\BD\SistemaVentas\bin\Debug\SistemaVentas.pdb
+F:\BD\SistemaVentas\bin\Debug\CapaPresentacion.dll
+F:\BD\SistemaVentas\bin\Debug\CapaPresentacion.pdb
+F:\BD\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+F:\BD\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+F:\BD\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+F:\BD\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+F:\BD\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+F:\BD\SistemaVentas\obj\Debug\SistemaVentas.exe
+F:\BD\SistemaVentas\obj\Debug\SistemaVentas.pdb
+F:\BD\SistemaVentas\bin\Debug\CapaNegocio.dll
+F:\BD\SistemaVentas\bin\Debug\CapaDatos.dll
+F:\BD\SistemaVentas\bin\Debug\CapaNegocio.pdb
+F:\BD\SistemaVentas\bin\Debug\CapaDatos.pdb
+F:\BD\SistemaVentas - copia\bin\Debug\SistemaVentas.exe.config
+F:\BD\SistemaVentas - copia\bin\Debug\SistemaVentas.exe
+F:\BD\SistemaVentas - copia\bin\Debug\SistemaVentas.pdb
+F:\BD\SistemaVentas - copia\bin\Debug\CapaNegocio.dll
+F:\BD\SistemaVentas - copia\bin\Debug\CapaPresentacion.dll
+F:\BD\SistemaVentas - copia\bin\Debug\CapaDatos.dll
+F:\BD\SistemaVentas - copia\bin\Debug\CapaNegocio.pdb
+F:\BD\SistemaVentas - copia\bin\Debug\CapaPresentacion.pdb
+F:\BD\SistemaVentas - copia\bin\Debug\CapaDatos.pdb
+F:\BD\SistemaVentas - copia\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+F:\BD\SistemaVentas - copia\obj\Debug\SistemaVentas.Properties.Resources.resources
+F:\BD\SistemaVentas - copia\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+F:\BD\SistemaVentas - copia\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+F:\BD\SistemaVentas - copia\obj\Debug\SistemaVentas.csproj.CopyComplete
+F:\BD\SistemaVentas - copia\obj\Debug\SistemaVentas.exe
+F:\BD\SistemaVentas - copia\obj\Debug\SistemaVentas.pdb
